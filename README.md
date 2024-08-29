@@ -33,6 +33,14 @@ This guide explains how to set up a PID position controller using an L298D modul
 
 ![Pololu25D](Images/Pololu25D.jpg)
 
+| Color  | Function                             |
+|--------|--------------------------------------|
+| Red    | Motor power (connects to one motor terminal) |
+| Black  | Motor power (connects to the other motor terminal) |
+| Green  | Encoder GND                           |
+| Blue   | Encoder Vcc (3.5 V to 20 V)            |
+| Yellow | Encoder A output                      |
+| White  | Encoder B output                      |
 
 ## Connections
 
