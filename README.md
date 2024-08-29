@@ -1,7 +1,10 @@
 # PID Position Controller Setup
 
-This guide explains how to set up a PID position controller using an L298D module and a Pololu 25D DC motor with encoder.
+This guide explains how to set up a PID position controller using an L298D module and a Pololu 25D DC motor with encoder, using C and STM32FCubeIDE.
 
+## Software Needed
+- **STM32CubeIDE**
+ 
 ## Components Needed
 - **Microcontroller** (e.g., STM32F411CEUx)
 - **L298D Motor Driver Module**
