@@ -66,7 +66,7 @@ static void MX_TIM3_Init(void);
 /* USER CODE BEGIN 0 */
 uint32_t counter = 0;
 int16_t count = 0;
-int16_t position =0;
+int16_t position =0; // Change this to the position needed in degrees, or use live expressions to change
 int16_t dir=0;
 
 float referencia = 0.0;
