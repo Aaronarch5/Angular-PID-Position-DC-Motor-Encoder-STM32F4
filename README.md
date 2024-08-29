@@ -14,7 +14,7 @@ This guide explains how to set up a PID position controller using an L298D modul
 
 ![Enable PWM Speed](Images/ENASignal.PNG)
 
-**Encoder Reading Sensor Pins Config **
+**Encoder Reading Sensor Pins Config**
 ![EncoderMode](Images/EncoderModeConf.PNG)
 
 ## Components Needed
