@@ -28,10 +28,8 @@ This guide explains how to set up a PID position controller using an L298D modul
 ![STM32F446RE](Images/blackpill.png)
 
 
-![L298D](Images/HBridge.jpg=x250)
-
-
-![Pololu25D](Images/Pololu25D.jpg=x250)
+<img src="Images/HBridge.jpg" alt="L298D" width="300"/>
+<img src="Images/Pololu25D.jpg" alt="Pololu25D" width="300"/>
 
 | Color  | Function                             |
 |--------|--------------------------------------|
