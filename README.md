@@ -11,9 +11,17 @@ This guide explains how to set up a PID position controller using an L298D modul
 - **Pololu 25D DC Motor with Encoder**
 - **Power Supply**
 - **Connecting Wires**
+
+
 ![STM32F446RE](Images/blackpill.png)
+
+
 ![L298D](Images/HBridge.jpg)
+
+
 ![Pololu25D](Images/Pololu25D.jpg)
+
+
 ## Connections
 
 ### 1. Microcontroller to L298D Module
