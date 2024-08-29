@@ -4,7 +4,19 @@ This guide explains how to set up a PID position controller using an L298D modul
 
 ## Software Needed
 - **STM32CubeIDE**
- 
+## Config STM32CubeIDE
+
+**System Configuration**
+![Enable PWM Speed](Images/SysConf.png)
+
+
+**ENA Signal Config PWM**
+
+![Enable PWM Speed](Images/ENASignal.png)
+
+**Encoder Reading Sensor Pins Config **
+![EncoderMode](Images/EncoderModeConf.png)
+
 ## Components Needed
 - **Microcontroller** (e.g., STM32F411CEUx)
 - **L298D Motor Driver Module**
